@@ -48,7 +48,7 @@
 
 ---
 
-<img align="left" alt="lamnehihi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="lamnehihi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lamnehihi&show_icons=true&hide_border=true" />
 
 [website]: https://connecto.page/nguyenhuynhthanhlam/0
 [moonshinehq]: https://www.moonshinehq.com/
