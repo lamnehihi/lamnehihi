@@ -40,10 +40,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Wordpress: Lading Page in 60 minutes -- Setup](https://www.notion.so/Landing-Page-trong-60p-P-1-f64f625f360e49e987adf7b8e4d18541)
-- [Wordpress: Lading Page in 60 minutes Part 2](https://www.notion.so/Landing-page-trong-60p-P-2-3d334b14151b48d9839c6276aedfaf76)
-- [Wordpress: Lading Page in 60 minutes Part 3](https://www.notion.so/Landing-page-trong-60p-P-3-c4917ea0ac77430c88e05df3642ce44d)
-- [Wordpress: Lading Page in 60 minutes -- End](https://www.notion.so/Landing-page-trong-60p-K-cu-i-18cb43a100c14544ae7410e66d75c85c)
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
