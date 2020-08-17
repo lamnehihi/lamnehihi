@@ -39,10 +39,10 @@
 ---
 
 ### 📕 Latest Blog Posts
-- Wordpress: Lading Page in 60 minutes -- Setup 🤓[https://www.notion.so/Landing-Page-trong-60p-P-1-f64f625f360e49e987adf7b8e4d18541]
-- Wordpress: Lading Page in 60 minutes Part 2 🚗[https://www.notion.so/Landing-page-trong-60p-P-2-3d334b14151b48d9839c6276aedfaf76]
-- Wordpress: Lading Page in 60 minutes Part 3 ✈️[https://www.notion.so/Landing-page-trong-60p-P-3-c4917ea0ac77430c88e05df3642ce44d]
-- Wordpress: Lading Page in 60 minutes -- End 🚀🚀[https://www.notion.so/Landing-page-trong-60p-K-cu-i-18cb43a100c14544ae7410e66d75c85c]
+- Wordpress: Lading Page in 60 minutes -- Setup 🤓[B1]
+- Wordpress: Lading Page in 60 minutes Part 2 🚗[B2]
+- Wordpress: Lading Page in 60 minutes Part 3 ✈️[B3]
+- Wordpress: Lading Page in 60 minutes -- End 🚀🚀[B4]
 
 
 ---
@@ -59,3 +59,8 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+[B1]: https://www.notion.so/Landing-Page-trong-60p-P-1-f64f625f360e49e987adf7b8e4d18541
+[B2]: https://www.notion.so/Landing-page-trong-60p-P-2-3d334b14151b48d9839c6276aedfaf76
+[B3]: https://www.notion.so/Landing-page-trong-60p-P-3-c4917ea0ac77430c88e05df3642ce44d
+[B4]: https://www.notion.so/Landing-page-trong-60p-K-cu-i-18cb43a100c14544ae7410e66d75c85c
