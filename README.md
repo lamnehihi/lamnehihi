@@ -1,7 +1,7 @@
 ### Hi there, I'm Thanh Lam - aka [Lamnehihi][website] 👋
 
 ## I'm a Student, Developer, and a Man! 😎
-- 🔭 I’m currently working on a [MoonShinehq][moonshinehq]!
+- 🔭 I’m currently working on [Madison][madison]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Project to learn a new things
 - 🥅 2020 Goals: Become a fullstack web developer
@@ -50,7 +50,7 @@
 <img align="left" alt="lamnehihi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lamnehihi&show_icons=true&hide_border=true" />
 
 [website]: https://connecto.page/nguyenhuynhthanhlam/0
-[moonshinehq]: https://www.moonshinehq.com/
+[madison]: https://www.madison-technology.com/
 [twitter]: https://twitter.com/NguyenH87043968
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/thanhlam_41/
