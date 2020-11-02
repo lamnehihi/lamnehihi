@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Project to learn a new things
 - 🥅 2020 Goals: Become a fullstack web developer
-- ⚡ Fun fact: I love to paradigm and play guitar
+- ⚡ Fun fact: I am a stonner =)))
 
 ### Connect with me:
 
