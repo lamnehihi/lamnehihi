@@ -1,10 +1,10 @@
 ### Hi there, I'm Thanh Lam - aka [Lamnehihi][website] 👋
 
 ## I'm a Student, Developer, and a Man! 😎
-- 🔭 I’m currently working on [Madison][madison]!
+- 🔭 I’m currently working on [Upwork][upwork] and [Fiverr][fiverr]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Project to learn a new things
-- 🥅 2020 Goals: Become a fullstack web developer
+- 🥅 2021 Goals: Become a fullstack web developer
 - ⚡ Fun fact: I am a stonner =)))
 
 ### Connect with me:
@@ -59,6 +59,8 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[upwork]: https://www.upwork.com/o/profiles/users/~011f04fcd46d0a7cc6
+[fiverr]: https://www.fiverr.com/lamnguyen328
 
 [B1]: https://www.notion.so/Landing-Page-trong-60p-P-1-f64f625f360e49e987adf7b8e4d18541
 [B2]: https://www.notion.so/Landing-page-trong-60p-P-2-3d334b14151b48d9839c6276aedfaf76
