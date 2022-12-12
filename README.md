@@ -49,7 +49,7 @@
 
 <img align="left" alt="lamnehihi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lamnehihi&show_icons=true&hide_border=true" />
 
-[website]: https://connecto.page/nguyenhuynhthanhlam/0
+[website]: http://liamnguyen.dev/
 [madison]: https://www.madison-technology.com/
 [twitter]: https://twitter.com/NguyenH87043968
 [youtube]: https://youtube.com/codeSTACKr
