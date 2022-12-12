@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Upwork][upwork] and [Fiverr][fiverr]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Project to learn a new things
-- 🥅 2021 Goals: Become a fullstack web developer
+- 🌐 My Portfolio [here][website]!
 - ⚡ Fun fact: I am a stonner =)))
 
 ### Connect with me:
